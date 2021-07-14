@@ -1,0 +1,33 @@
+@mediascreen and (width: 600px){
+body p{
+	color: red;
+}}
+ nav a:hover{
+	color:red;
+	text-decoration:none;
+}
+
+footer{
+	background-color:;
+    height:15vh;
+	background-color:black;
+    
+	}
+header{
+	background-color:brown;
+	height:10vh;
+}
+header h1{
+	left:45%;
+    position:absolute;
+	}
+nav a{
+text-decoration:none;
+color:white;
+background-color:black;
+text-align:center;
+
+}	
+nav {
+	background-color:black;
+}
